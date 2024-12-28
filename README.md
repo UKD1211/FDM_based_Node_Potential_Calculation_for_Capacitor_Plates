@@ -28,11 +28,12 @@ This project focused on solving electrostatic field problems using the Finite Di
 
 ## Features
 
-- Simulation of electric potential distribution using boundary conditions.
-- Gauss-Seidel iterative method for solving the potential at inner grid points.
-- 3D visualization of the potential between the plates.
-- Adjustable grid size and boundary voltage.
-- Top and bottom capacitor plates displayed on the 3D plot.
+- Accurate simulation of electric potential distribution using Finite Difference Method (FDM).
+- Implementation of Neumann boundary conditions for precise modeling of gradient-based constraints.
+- Integration of Successive Over-Relaxation (SOR) and Gauss-Seidel methods for efficient iterative solving at grid points.
+- Detailed 2D and 3D visualization of potential and electric field distributions between capacitor plates.
+- Adjustable parameters, including grid size, boundary voltage, and material properties, for enhanced customization.
+- Inclusion of top and bottom capacitor plates in the 3D plot for comprehensive field analysis.
 
 ---
 
