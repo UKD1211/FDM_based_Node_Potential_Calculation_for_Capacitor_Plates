@@ -22,9 +22,7 @@ The project focused on solving complex electrostatic field problems using the Fi
 
 ## Introduction
 
-Capacitors are fundamental components in electrical circuits, storing energy in the form of an electric field. In this project, we visualize the electric potential between two parallel capacitor plates. Using a computational grid, we solve for the potential at each point between the plates, demonstrating the relationship between voltage and electric field.
-
-The main goal of this project is to create a simulation that helps in understanding the electric potential distribution in a 2D grid placed between two parallel plates and visualize this distribution in 3D.
+This project focused on solving electrostatic field problems using the Finite Difference Method (FDM) to compute potential distributions between capacitor plates. Key aspects included implementing Neumann boundary conditions to model potential gradients accurately and optimizing convergence with Successive Over-Relaxation (SOR). The work provided detailed 2D and 3D visualizations, offering insights into high-voltage engineering applications like capacitor design and electric field analysis.
 
 ---
 
