@@ -52,8 +52,12 @@ To run this project, follow these steps:
 
     ```bash
    import numpy as np
-from matplotlib import pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
+    ```
+    ```bash
+    from matplotlib import pyplot as plt
+    ```
+    ```bash
+    from mpl_toolkits.mplot3d import Axes3D
     ```
 
 ---
