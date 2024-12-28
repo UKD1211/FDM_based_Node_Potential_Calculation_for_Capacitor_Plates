@@ -51,7 +51,9 @@ To run this project, follow these steps:
 2. Install the required Python libraries:
 
     ```bash
-    pip install numpy matplotlib
+   import numpy as np
+from matplotlib import pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
     ```
 
 ---
